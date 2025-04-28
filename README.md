@@ -1,4 +1,6 @@
-
+Desenvolvido por: Pedro Henrique Rodrigues 
+Professor: Icaro
+Matéria: AUTOMAÇÃO DE TESTES E DEVOPS
 Java vs C#: A Batalha Épica dos Titãs da Programação
 No canto verde, com seus dreadlocks de código e aura de sabedoria ancestral, está o poderoso Java!
 
@@ -37,3 +39,9 @@ E não se esqueça:
 No final das contas, a única rivalidade que realmente importa é a sua busca incessante por conhecimento e aperfeiçoamento. Continue aprendendo, evoluindo e se tornando um programador cada vez mais completo.
 
 O futuro da programação está em suas mãos!
+
+Comentário do Desenvolvedor Pedro Rodrigues:
+
+"Para mim, não existe uma escolha 'certa' entre Java e C#. Cada projeto tem suas particularidades, e, ao longo do tempo, aprendi que o mais importante é entender as necessidades da aplicação. Em certos casos, Java é a melhor opção, em outros, C# brilha. O que importa é escolher a ferramenta certa para o trabalho, e isso vem com experiência. O mais importante é aprender sempre e se adaptar às novas tecnologias."
+
+
